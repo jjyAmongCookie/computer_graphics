@@ -1,5 +1,5 @@
 # computer_graphics
-sysu_cg(taught by Taojun)
+sysu_cg(taught by 陶钧)
 
 各位抄完作业记得Star/Fork一下哈
 
